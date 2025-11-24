@@ -5,4 +5,6 @@ import com.example.entity.Student;
 public interface IStudentService {
 
 	public Student addStudent(Student s);
+	public Student addAllStudent(Student s);
+	
 }

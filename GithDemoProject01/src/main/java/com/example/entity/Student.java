@@ -1,5 +1,5 @@
 package com.example.entity;
 
-public class student {
+public class Student {
 
 }
